@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\WpfApp1_Gruznykh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52C5A472-66D1-4741-AF28-87011AF28DCC}|WpfApp1_Gruznykh\\WpfApp1_Gruznykh.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\solidc#\\1pr\\wpfapp1_gruznykh\\wpfapp1_gruznykh\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C5A472-66D1-4741-AF28-87011AF28DCC}|WpfApp1_Gruznykh\\WpfApp1_Gruznykh.csproj|solutionrelative:wpfapp1_gruznykh\\registration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C5A472-66D1-4741-AF28-87011AF28DCC}|WpfApp1_Gruznykh\\WpfApp1_Gruznykh.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\solidc#\\1pr\\wpfapp1_gruznykh\\wpfapp1_gruznykh\\admmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C5A472-66D1-4741-AF28-87011AF28DCC}|WpfApp1_Gruznykh\\WpfApp1_Gruznykh.csproj|solutionrelative:wpfapp1_gruznykh\\admmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C5A472-66D1-4741-AF28-87011AF28DCC}|WpfApp1_Gruznykh\\WpfApp1_Gruznykh.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\solidc#\\1pr\\wpfapp1_gruznykh\\wpfapp1_gruznykh\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52C5A472-66D1-4741-AF28-87011AF28DCC}|WpfApp1_Gruznykh\\WpfApp1_Gruznykh.csproj|solutionrelative:wpfapp1_gruznykh\\registration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C5A472-66D1-4741-AF28-87011AF28DCC}|WpfApp1_Gruznykh\\WpfApp1_Gruznykh.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\solidc#\\1pr\\wpfapp1_gruznykh\\wpfapp1_gruznykh\\admmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52C5A472-66D1-4741-AF28-87011AF28DCC}|WpfApp1_Gruznykh\\WpfApp1_Gruznykh.csproj|solutionrelative:wpfapp1_gruznykh\\admmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C5A472-66D1-4741-AF28-87011AF28DCC}|WpfApp1_Gruznykh\\WpfApp1_Gruznykh.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\solidc#\\1pr\\wpfapp1_gruznykh\\wpfapp1_gruznykh\\hashpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C5A472-66D1-4741-AF28-87011AF28DCC}|WpfApp1_Gruznykh\\WpfApp1_Gruznykh.csproj|solutionrelative:wpfapp1_gruznykh\\hashpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96E1323-9F56-4689-AD5F-917813B996BD}|..\\Data\\Data.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\solidc#\\1pr\\data\\data\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96E1323-9F56-4689-AD5F-917813B996BD}|..\\Data\\Data.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\solidc#\\1pr\\data\\data\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C5A472-66D1-4741-AF28-87011AF28DCC}|WpfApp1_Gruznykh\\WpfApp1_Gruznykh.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\solidc#\\1pr\\wpfapp1_gruznykh\\wpfapp1_gruznykh\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C5A472-66D1-4741-AF28-87011AF28DCC}|WpfApp1_Gruznykh\\WpfApp1_Gruznykh.csproj|solutionrelative:wpfapp1_gruznykh\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C5A472-66D1-4741-AF28-87011AF28DCC}|WpfApp1_Gruznykh\\WpfApp1_Gruznykh.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\solidc#\\1pr\\wpfapp1_gruznykh\\wpfapp1_gruznykh\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{52C5A472-66D1-4741-AF28-87011AF28DCC}|WpfApp1_Gruznykh\\WpfApp1_Gruznykh.csproj|solutionrelative:wpfapp1_gruznykh\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96E1323-9F56-4689-AD5F-917813B996BD}|..\\Data\\Data.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\solidc#\\1pr\\data\\migrations\\20240918104546_initiall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C5A472-66D1-4741-AF28-87011AF28DCC}|WpfApp1_Gruznykh\\WpfApp1_Gruznykh.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\solidc#\\1pr\\wpfapp1_gruznykh\\wpfapp1_gruznykh\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C5A472-66D1-4741-AF28-87011AF28DCC}|WpfApp1_Gruznykh\\WpfApp1_Gruznykh.csproj|solutionrelative:wpfapp1_gruznykh\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96E1323-9F56-4689-AD5F-917813B996BD}|..\\Data\\Data.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\solidc#\\1pr\\data\\data\\userdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96E1323-9F56-4689-AD5F-917813B996BD}|..\\Data\\Data.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\solidc#\\1pr\\data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96E1323-9F56-4689-AD5F-917813B996BD}|..\\Data\\Data.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\solidc#\\1pr\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\Data\\Data\\Connection.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Data\\Connection.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\Data\\Data\\Connection.cs",
+              "RelativeToolTip": "..\\Data\\Data\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:16:50.585Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdmMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\WpfApp1_Gruznykh\\WpfApp1_Gruznykh\\AdmMenu.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1_Gruznykh\\AdmMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\WpfApp1_Gruznykh\\WpfApp1_Gruznykh\\AdmMenu.xaml.cs",
+              "RelativeToolTip": "WpfApp1_Gruznykh\\AdmMenu.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowBIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:01:23.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registration.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\WpfApp1_Gruznykh\\WpfApp1_Gruznykh\\Registration.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1_Gruznykh\\Registration.xaml.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\WpfApp1_Gruznykh\\WpfApp1_Gruznykh\\Registration.xaml.cs",
+              "RelativeToolTip": "WpfApp1_Gruznykh\\Registration.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T09:42:51.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registration.xaml",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\WpfApp1_Gruznykh\\WpfApp1_Gruznykh\\Registration.xaml",
+              "RelativeDocumentMoniker": "WpfApp1_Gruznykh\\Registration.xaml",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\WpfApp1_Gruznykh\\WpfApp1_Gruznykh\\Registration.xaml",
+              "RelativeToolTip": "WpfApp1_Gruznykh\\Registration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-19T09:40:54.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\WpfApp1_Gruznykh\\WpfApp1_Gruznykh\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1_Gruznykh\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\WpfApp1_Gruznykh\\WpfApp1_Gruznykh\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1_Gruznykh\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwDcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:11:01.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\Data\\Data\\Users.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Data\\Users.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\Data\\Data\\Users.cs",
+              "RelativeToolTip": "..\\Data\\Data\\Users.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:12:51.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdmMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\WpfApp1_Gruznykh\\WpfApp1_Gruznykh\\AdmMenu.xaml",
+              "RelativeDocumentMoniker": "WpfApp1_Gruznykh\\AdmMenu.xaml",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\WpfApp1_Gruznykh\\WpfApp1_Gruznykh\\AdmMenu.xaml",
+              "RelativeToolTip": "WpfApp1_Gruznykh\\AdmMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-19T08:22:30.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HashPassword.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\WpfApp1_Gruznykh\\WpfApp1_Gruznykh\\HashPassword.cs",
+              "RelativeDocumentMoniker": "WpfApp1_Gruznykh\\HashPassword.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\WpfApp1_Gruznykh\\WpfApp1_Gruznykh\\HashPassword.cs",
+              "RelativeToolTip": "WpfApp1_Gruznykh\\HashPassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:01:57.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\WpfApp1_Gruznykh\\WpfApp1_Gruznykh\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1_Gruznykh\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\WpfApp1_Gruznykh\\WpfApp1_Gruznykh\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1_Gruznykh\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T10:11:08.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240918104546_initiall.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\Data\\Migrations\\20240918104546_initiall.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Migrations\\20240918104546_initiall.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\Data\\Migrations\\20240918104546_initiall.cs",
+              "RelativeToolTip": "..\\Data\\Migrations\\20240918104546_initiall.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:45:47.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\WpfApp1_Gruznykh\\WpfApp1_Gruznykh\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1_Gruznykh\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\WpfApp1_Gruznykh\\WpfApp1_Gruznykh\\App.xaml.cs",
+              "RelativeToolTip": "WpfApp1_Gruznykh\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:41:48.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\Data\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Program.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\Data\\Program.cs",
+              "RelativeToolTip": "..\\Data\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:12:20.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "..\\Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\Data\\Data.csproj",
+              "RelativeToolTip": "..\\Data\\Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T10:12:30.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\Data\\Data\\UserDetail.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Data\\UserDetail.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\SOLIDC#\\1pr\\Data\\Data\\UserDetail.cs",
+              "RelativeToolTip": "..\\Data\\Data\\UserDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T10:16:18.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
